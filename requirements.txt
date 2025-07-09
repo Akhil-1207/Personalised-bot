@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+yagmail
+datetime
+streamlit_autorefresh
+logging
+gspread
+oauth2client
+re
+fuzzywuzzy
+os
+numpy
+time
